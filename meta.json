@@ -1,0 +1,11 @@
+{
+  "version": 202610210805,
+  "updated": "2026-10-21T08:05:17Z",
+  "countries": {
+    "CN": {
+      "file": "countries/CN.json",
+      "sha256": "8177aa80b8ceed5ae218acc7acb81691b2a080a6b391a09a7e1cf11fb687a258",
+      "domains": 173
+    }
+  }
+}
