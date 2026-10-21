@@ -1,0 +1,98 @@
+{
+ "country": "AE",
+ "name": "阿联酋",
+ "version": 1,
+ "direct_domains": [
+  "gulfnews.com",
+  "khaleejtimes.com",
+  "thenationalnews.com",
+  "emirates247.com",
+  "albayan.ae",
+  "emaratalyoum.com",
+  "u.ae"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "shahid.mbc.net",
+    "osn.com",
+    "starzplay.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "snapchat.com",
+    "botim.me",
+    "imo.im",
+    "discord.com"
+   ],
+   "proxy": [
+    "viber.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.ae",
+    "noon.com",
+    "namshi.com",
+    "carrefouruae.com",
+    "sharafdg.com",
+    "mumzworld.com",
+    "ounass.ae",
+    "dubizzle.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "emiratesnbd.com",
+    "fabbank.com",
+    "adcb.com",
+    "mashreqbank.com",
+    "dubaiislamicbank.com",
+    "tabby.ai",
+    "tamara.co",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

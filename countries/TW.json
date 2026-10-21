@@ -1,0 +1,106 @@
+{
+ "country": "TW",
+ "name": "台湾",
+ "version": 1,
+ "direct_domains": [
+  "google.com.tw",
+  "yahoo.com.tw",
+  "ptt.cc",
+  "dcard.tw",
+  "pixnet.net",
+  "udn.com",
+  "ltn.com.tw",
+  "ettoday.net"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "iq.com",
+    "bilibili.com",
+    "kktv.me",
+    "myvideo.net.tw",
+    "twitch.tv",
+    "primevideo.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "line.me",
+    "facebook.com",
+    "instagram.com",
+    "threads.net",
+    "telegram.org",
+    "whatsapp.com",
+    "discord.com",
+    "ptt.cc",
+    "dcard.tw",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.tw",
+    "momoshop.com.tw",
+    "pchome.com.tw",
+    "books.com.tw",
+    "rakuten.com.tw",
+    "costco.com.tw",
+    "foodpanda.tw",
+    "ubereats.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "ctbcbank.com",
+    "esunbank.com.tw",
+    "cathaybk.com.tw",
+    "fubon.com",
+    "bot.com.tw",
+    "post.gov.tw",
+    "jkopay.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com.tw",
+    "riotgames.com",
+    "garena.com",
+    "gamer.com.tw",
+    "hoyoverse.com",
+    "epicgames.com",
+    "ea.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

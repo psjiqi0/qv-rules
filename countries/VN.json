@@ -1,0 +1,106 @@
+{
+ "country": "VN",
+ "name": "越南",
+ "version": 1,
+ "direct_domains": [
+  "google.com.vn",
+  "vnexpress.net",
+  "tuoitre.vn",
+  "thanhnien.vn",
+  "zingnews.vn",
+  "cafef.vn",
+  "genk.vn"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "vieon.vn",
+    "fptplay.vn",
+    "galaxyplay.vn",
+    "viu.com",
+    "twitch.tv",
+    "bilibili.com",
+    "primevideo.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "zalo.me",
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "telegram.org",
+    "whatsapp.com",
+    "discord.com",
+    "signal.org",
+    "viber.com",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.vn",
+    "lazada.vn",
+    "tiki.vn",
+    "sendo.vn",
+    "bachhoaxanh.com",
+    "thegioididong.com",
+    "grab.com",
+    "be.com.vn",
+    "foody.vn"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "vietcombank.com.vn",
+    "techcombank.com.vn",
+    "bidv.com.vn",
+    "vietinbank.vn",
+    "mbbank.com.vn",
+    "momo.vn",
+    "zalopay.vn",
+    "vnpay.vn"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "vng.com.vn",
+    "playstation.com",
+    "xbox.com",
+    "epicgames.com",
+    "hoyoverse.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

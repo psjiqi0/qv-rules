@@ -1,0 +1,96 @@
+{
+ "country": "CZ",
+ "name": "捷克",
+ "version": 1,
+ "direct_domains": [
+  "seznam.cz",
+  "idnes.cz",
+  "novinky.cz",
+  "blesk.cz",
+  "irozhlas.cz",
+  "ceskatelevize.cz",
+  "denik.cz"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "ceskatelevize.cz",
+    "oneplay.cz",
+    "prima.cz",
+    "stream.cz",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "alza.cz",
+    "mall.cz",
+    "datart.cz",
+    "czc.cz",
+    "rohlik.cz",
+    "kosik.cz",
+    "heureka.cz",
+    "notino.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "csob.cz",
+    "csas.cz",
+    "kb.cz",
+    "moneta.cz",
+    "airbank.cz",
+    "fio.cz",
+    "paypal.com",
+    "revolut.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.cz",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

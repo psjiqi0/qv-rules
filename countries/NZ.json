@@ -1,0 +1,106 @@
+{
+ "country": "NZ",
+ "name": "新西兰",
+ "version": 1,
+ "direct_domains": [
+  "google.co.nz",
+  "nzherald.co.nz",
+  "stuff.co.nz",
+  "rnz.co.nz",
+  "tvnz.co.nz",
+  "trademe.co.nz",
+  "metservice.com",
+  "govt.nz"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "neon.co.nz",
+    "tvnz.co.nz",
+    "threenow.co.nz",
+    "sky.co.nz",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "telegram.org",
+    "signal.org",
+    "discord.com",
+    "threads.net",
+    "zoom.us",
+    "teams.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "trademe.co.nz",
+    "thewarehouse.co.nz",
+    "kmart.co.nz",
+    "woolworths.co.nz",
+    "paknsave.co.nz",
+    "mightyape.co.nz",
+    "ubereats.com",
+    "menulog.co.nz"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "anz.co.nz",
+    "asb.co.nz",
+    "bnz.co.nz",
+    "westpac.co.nz",
+    "kiwibank.co.nz",
+    "paypal.com",
+    "afterpay.com",
+    "xero.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com",
+    "riotgames.com",
+    "epicgames.com",
+    "ea.com",
+    "battle.net",
+    "mightyape.co.nz"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

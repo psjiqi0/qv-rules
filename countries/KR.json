@@ -1,0 +1,106 @@
+{
+ "country": "KR",
+ "name": "韩国",
+ "version": 1,
+ "direct_domains": [
+  "naver.com",
+  "daum.net",
+  "google.co.kr",
+  "kakao.com",
+  "tistory.com",
+  "namu.wiki"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "wrtn.ai",
+    "clova-x.naver.com",
+    "poe.com",
+    "character.ai"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tving.com",
+    "wavve.com",
+    "watcha.com",
+    "afreecatv.com",
+    "disneyplus.com",
+    "coupangplay.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "kakao.com",
+    "line.me",
+    "discord.com",
+    "instagram.com",
+    "facebook.com",
+    "telegram.org",
+    "whatsapp.com",
+    "band.us",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "coupang.com",
+    "11st.co.kr",
+    "gmarket.co.kr",
+    "auction.co.kr",
+    "musinsa.com",
+    "kurly.com",
+    "baemin.com",
+    "yogiyo.co.kr",
+    "lotteon.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "kbstar.com",
+    "shinhan.com",
+    "wooribank.com",
+    "hanabank.com",
+    "toss.im",
+    "kakaopay.com",
+    "kakaobank.com",
+    "pay.naver.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "nexon.com",
+    "ncsoft.com",
+    "krafton.com",
+    "netmarble.net",
+    "smilegate.com",
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.co.kr",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

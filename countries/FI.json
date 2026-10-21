@@ -1,0 +1,98 @@
+{
+ "country": "FI",
+ "name": "芬兰",
+ "version": 1,
+ "direct_domains": [
+  "yle.fi",
+  "hs.fi",
+  "is.fi",
+  "iltalehti.fi",
+  "mtv.fi",
+  "kauppalehti.fi",
+  "suomi.fi"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "yle.fi",
+    "mtv.fi",
+    "ruutu.fi",
+    "viaplay.fi",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "signal.org",
+    "messenger.com",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "verkkokauppa.com",
+    "gigantti.fi",
+    "power.fi",
+    "tori.fi",
+    "tokmanni.fi",
+    "s-kaupat.fi",
+    "k-ruoka.fi",
+    "zalando.fi",
+    "huuto.net"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "nordea.fi",
+    "op.fi",
+    "danskebank.fi",
+    "s-pankki.fi",
+    "mobilepay.fi",
+    "omasp.fi",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.fi",
+    "riotgames.com",
+    "supercell.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

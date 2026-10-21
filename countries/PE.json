@@ -1,0 +1,109 @@
+{
+ "country": "PE",
+ "name": "秘鲁",
+ "version": 1,
+ "direct_domains": [
+  "google.com.pe",
+  "elcomercio.pe",
+  "gestion.pe",
+  "rpp.pe",
+  "gob.pe",
+  "larepublica.pe",
+  "peru21.pe"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "character.ai",
+    "poe.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "max.com",
+    "primevideo.com",
+    "americatv.com.pe",
+    "latina.pe",
+    "atv.pe",
+    "twitch.tv",
+    "crunchyroll.com",
+    "pluto.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "x.com",
+    "tiktok.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolibre.com.pe",
+    "falabella.com.pe",
+    "ripley.com.pe",
+    "oechsle.pe",
+    "plazavea.com.pe",
+    "rappi.com.pe",
+    "amazon.com",
+    "sodimac.com.pe",
+    "tailoy.com.pe"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "viabcp.com",
+    "interbank.pe",
+    "bbva.pe",
+    "scotiabank.com.pe",
+    "banbif.com.pe",
+    "mibanco.com.pe",
+    "pichincha.pe"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com",
+    "dota2.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

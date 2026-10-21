@@ -1,0 +1,97 @@
+{
+ "country": "UA",
+ "name": "乌克兰",
+ "version": 1,
+ "direct_domains": [
+  "pravda.com.ua",
+  "unian.ua",
+  "tsn.ua",
+  "suspilne.media",
+  "kyivpost.com",
+  "gov.ua",
+  "nv.ua",
+  "obozrevatel.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "megogo.net",
+    "sweet.tv",
+    "1plus1.ua",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "telegram.org",
+    "whatsapp.com",
+    "viber.com",
+    "signal.org",
+    "messenger.com",
+    "discord.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "rozetka.com.ua",
+    "prom.ua",
+    "olx.ua",
+    "allo.ua",
+    "moyo.ua",
+    "citrus.ua",
+    "epicentrk.ua",
+    "makeup.com.ua",
+    "hotline.ua"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "privatbank.ua",
+    "monobank.ua",
+    "oschadbank.ua",
+    "sensebank.ua",
+    "raiffeisen.ua",
+    "pumb.ua",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "gog.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

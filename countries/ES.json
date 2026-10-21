@@ -1,0 +1,102 @@
+{
+ "country": "ES",
+ "name": "西班牙",
+ "version": 1,
+ "direct_domains": [
+  "elpais.com",
+  "elmundo.es",
+  "marca.com",
+  "as.com",
+  "rtve.es",
+  "antena3.com",
+  "telecinco.es",
+  "lavanguardia.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "mistral.ai"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "rtve.es",
+    "atresplayer.com",
+    "mitele.es",
+    "movistarplus.es",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.es",
+    "elcorteingles.es",
+    "pccomponentes.com",
+    "mediamarkt.es",
+    "carrefour.es",
+    "mercadona.es",
+    "zara.com",
+    "wallapop.com",
+    "milanuncios.com",
+    "aliexpress.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bbva.es",
+    "santander.es",
+    "caixabank.es",
+    "bankinter.com",
+    "ing.es",
+    "bizum.es",
+    "paypal.com",
+    "revolut.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.es",
+    "riotgames.com",
+    "roblox.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "country": "TH",
+ "name": "泰国",
+ "version": 1,
+ "direct_domains": [
+  "google.co.th",
+  "sanook.com",
+  "kapook.com",
+  "thairath.co.th",
+  "matichon.co.th",
+  "pantip.com",
+  "dek-d.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "viu.com",
+    "wetv.vip",
+    "trueid.net",
+    "disneyplus.com",
+    "primevideo.com",
+    "twitch.tv",
+    "bilibili.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "line.me",
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "threads.net",
+    "telegram.org",
+    "whatsapp.com",
+    "discord.com",
+    "signal.org",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.co.th",
+    "lazada.co.th",
+    "central.co.th",
+    "bigc.co.th",
+    "lotuss.com.th",
+    "grab.com",
+    "foodpanda.co.th"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "kasikornbank.com",
+    "scb.co.th",
+    "bangkokbank.com",
+    "krungsri.com",
+    "ktb.co.th",
+    "truemoney.com",
+    "ttb.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "playstation.com",
+    "xbox.com",
+    "hoyoverse.com",
+    "epicgames.com",
+    "ea.com",
+    "unipin.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

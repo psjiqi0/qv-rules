@@ -1,0 +1,96 @@
+{
+ "country": "MM",
+ "name": "缅甸",
+ "version": 1,
+ "direct_domains": [
+  "google.com.mm",
+  "irrawaddy.com",
+  "frontiermyanmar.net",
+  "mmtimes.com",
+  "mizzima.com",
+  "myanmar-now.org"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "you.com"
+   ],
+   "proxy": [
+    "chatgpt.com",
+    "claude.ai"
+   ],
+   "default_exit": "US"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "tiktok.com",
+    "netflix.com",
+    "viu.com",
+    "dailymotion.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "viber.com",
+    "telegram.org",
+    "whatsapp.com",
+    "signal.org",
+    "discord.com",
+    "zoom.us",
+    "line.me"
+   ],
+   "proxy": [
+    "facebook.com",
+    "instagram.com",
+    "x.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shop.com.mm",
+    "baganmart.com",
+    "yangondoor2door.com",
+    "grab.com",
+    "foodpanda.com.mm"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "kbzpay.com",
+    "ayapay.com",
+    "wavemoney.com.mm",
+    "kbzbank.com",
+    "ayabank.com",
+    "cbbank.com.mm"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "playstation.com",
+    "xbox.com",
+    "epicgames.com",
+    "ea.com",
+    "pubgmobile.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

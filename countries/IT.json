@@ -1,0 +1,100 @@
+{
+ "country": "IT",
+ "name": "意大利",
+ "version": 1,
+ "direct_domains": [
+  "corriere.it",
+  "repubblica.it",
+  "gazzetta.it",
+  "ansa.it",
+  "ilsole24ore.com",
+  "rai.it",
+  "mediaset.it",
+  "gov.it"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "deepseek.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "raiplay.it",
+    "mediaset.it",
+    "nowtv.it",
+    "dazn.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.it",
+    "ebay.it",
+    "zalando.it",
+    "mediaworld.it",
+    "unieuro.it",
+    "esselunga.it",
+    "subito.it",
+    "eprice.it",
+    "trovaprezzi.it"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "intesasanpaolo.com",
+    "unicredit.it",
+    "poste.it",
+    "finecobank.com",
+    "ing.it",
+    "paypal.com",
+    "satispay.com",
+    "nexi.it"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.it",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

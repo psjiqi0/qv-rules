@@ -1,0 +1,102 @@
+{
+ "country": "BD",
+ "name": "孟加拉国",
+ "version": 1,
+ "direct_domains": [
+  "google.com.bd",
+  "prothomalo.com",
+  "bdnews24.com",
+  "dhakatribune.com",
+  "thedailystar.net",
+  "jugantor.com",
+  "ittefaq.com.bd"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai"
+   ],
+   "proxy": [
+    "claude.ai"
+   ],
+   "default_exit": "US"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "chorki.com",
+    "hoichoi.tv",
+    "binge.com.bd",
+    "bongo.com.bd",
+    "twitch.tv",
+    "primevideo.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "facebook.com",
+    "messenger.com",
+    "whatsapp.com",
+    "imo.im",
+    "telegram.org",
+    "instagram.com",
+    "signal.org",
+    "discord.com",
+    "viber.com",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "daraz.com.bd",
+    "chaldal.com",
+    "foodpanda.com.bd",
+    "pathao.com",
+    "ajkerdeal.com",
+    "pickaboo.com",
+    "othoba.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bkash.com",
+    "nagad.com.bd",
+    "dutchbanglabank.com",
+    "bracbank.com",
+    "ebl.com.bd",
+    "islamibankbd.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "playstation.com",
+    "xbox.com",
+    "epicgames.com",
+    "ea.com",
+    "pubgmobile.com",
+    "codashop.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

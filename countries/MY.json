@@ -1,0 +1,106 @@
+{
+ "country": "MY",
+ "name": "马来西亚",
+ "version": 1,
+ "direct_domains": [
+  "google.com.my",
+  "malaysiakini.com",
+  "thestar.com.my",
+  "sinchew.com.my",
+  "mudah.my",
+  "lowyat.net",
+  "astro.com.my"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "viu.com",
+    "iq.com",
+    "wetv.vip",
+    "tonton.com.my",
+    "twitch.tv",
+    "bilibili.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "facebook.com",
+    "instagram.com",
+    "threads.net",
+    "discord.com",
+    "signal.org",
+    "wechat.com",
+    "messenger.com",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.com.my",
+    "lazada.com.my",
+    "mudah.my",
+    "carousell.com.my",
+    "zalora.com.my",
+    "grab.com",
+    "foodpanda.my",
+    "senheng.com.my"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "maybank2u.com.my",
+    "cimb.com.my",
+    "hlb.com.my",
+    "rhbgroup.com",
+    "ambankgroup.com",
+    "boost.my",
+    "tngdigital.com.my",
+    "grab.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "garena.com",
+    "riotgames.com",
+    "hoyoverse.com",
+    "epicgames.com",
+    "ea.com",
+    "unipin.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "country": "PL",
+ "name": "波兰",
+ "version": 1,
+ "direct_domains": [
+  "onet.pl",
+  "wp.pl",
+  "tvn24.pl",
+  "polsatnews.pl",
+  "wyborcza.pl",
+  "interia.pl",
+  "gov.pl",
+  "rmf24.pl"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "bielik.ai"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "player.pl",
+    "polsatboxgo.pl",
+    "tvp.pl",
+    "cda.pl",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "gg.pl"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "allegro.pl",
+    "olx.pl",
+    "ceneo.pl",
+    "mediaexpert.pl",
+    "euro.com.pl",
+    "x-kom.pl",
+    "empik.com",
+    "morele.net",
+    "amazon.pl"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "mbank.pl",
+    "pkobp.pl",
+    "pekao.com.pl",
+    "santander.pl",
+    "ing.pl",
+    "blik.com",
+    "paypal.com",
+    "revolut.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "gog.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com",
+    "cdprojektred.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

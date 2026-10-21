@@ -1,0 +1,112 @@
+{
+ "country": "CO",
+ "name": "哥伦比亚",
+ "version": 1,
+ "direct_domains": [
+  "google.com.co",
+  "eltiempo.com",
+  "semana.com",
+  "elcolombiano.com",
+  "gov.co",
+  "portafolio.co",
+  "elespectador.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "character.ai",
+    "poe.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "max.com",
+    "primevideo.com",
+    "caracoltv.com",
+    "canalrcn.com",
+    "twitch.tv",
+    "crunchyroll.com",
+    "vix.com",
+    "pluto.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "x.com",
+    "tiktok.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolibre.com.co",
+    "exito.com",
+    "falabella.com.co",
+    "alkosto.com",
+    "ktronix.com",
+    "homecenter.com.co",
+    "rappi.com.co",
+    "amazon.com",
+    "aliexpress.com",
+    "panamericana.com.co"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bancolombia.com",
+    "davivienda.com",
+    "bbva.com.co",
+    "bancodebogota.com",
+    "nequi.com",
+    "daviplata.com",
+    "nu.com.co",
+    "lulobank.com",
+    "scotiabankcolpatria.com",
+    "bancooccidente.com.co"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

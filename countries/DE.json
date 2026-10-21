@@ -1,0 +1,110 @@
+{
+ "country": "DE",
+ "name": "德国",
+ "version": 1,
+ "direct_domains": [
+  "tagesschau.de",
+  "zdf.de",
+  "spiegel.de",
+  "bild.de",
+  "zeit.de",
+  "faz.net",
+  "sueddeutsche.de",
+  "welt.de",
+  "bahn.de",
+  "wetter.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "mistral.ai",
+    "deepl.com",
+    "deepseek.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "ardmediathek.de",
+    "zdf.de",
+    "joyn.de",
+    "rtlplus.de",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv",
+    "sky.de"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "signal.org",
+    "messenger.com",
+    "discord.com",
+    "snapchat.com",
+    "threema.ch"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.de",
+    "ebay.de",
+    "otto.de",
+    "zalando.de",
+    "mediamarkt.de",
+    "saturn.de",
+    "idealo.de",
+    "check24.de",
+    "rewe.de",
+    "lidl.de",
+    "kaufland.de"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "sparkasse.de",
+    "ing.de",
+    "dkb.de",
+    "commerzbank.de",
+    "deutsche-bank.de",
+    "n26.com",
+    "paypal.com",
+    "klarna.com",
+    "consorsbank.de"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.de",
+    "riotgames.com",
+    "roblox.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

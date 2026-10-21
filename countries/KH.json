@@ -1,0 +1,95 @@
+{
+ "country": "KH",
+ "name": "柬埔寨",
+ "version": 1,
+ "direct_domains": [
+  "google.com.kh",
+  "khmertimeskh.com",
+  "phnompenhpost.com",
+  "freshnewsasia.com",
+  "dap-news.com",
+  "kohsantepheapdaily.com.kh"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai"
+   ],
+   "proxy": [
+    "claude.ai"
+   ],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "twitch.tv",
+    "primevideo.com",
+    "viu.com",
+    "dailymotion.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "facebook.com",
+    "messenger.com",
+    "telegram.org",
+    "whatsapp.com",
+    "instagram.com",
+    "viber.com",
+    "signal.org",
+    "discord.com",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "l192.com",
+    "zando.com.kh",
+    "foodpanda.com.kh",
+    "grab.com",
+    "nham24.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "ababank.com",
+    "acledabank.com.kh",
+    "wingmoney.com",
+    "canadiabank.com",
+    "princebank.com.kh",
+    "sathapana.com.kh"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "playstation.com",
+    "xbox.com",
+    "epicgames.com",
+    "ea.com",
+    "sabay.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

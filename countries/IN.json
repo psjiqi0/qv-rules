@@ -1,0 +1,113 @@
+{
+ "country": "IN",
+ "name": "印度",
+ "version": 1,
+ "direct_domains": [
+  "google.co.in",
+  "india.gov.in",
+  "timesofindia.indiatimes.com",
+  "thehindu.com",
+  "ndtv.com",
+  "indiatoday.in",
+  "amarujala.com",
+  "jagran.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com",
+    "sarvam.ai"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "primevideo.com",
+    "hotstar.com",
+    "jiocinema.com",
+    "zee5.com",
+    "sonyliv.com",
+    "mxplayer.in",
+    "twitch.tv"
+   ],
+   "proxy": [
+    "tiktok.com"
+   ],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "instagram.com",
+    "facebook.com",
+    "signal.org",
+    "discord.com",
+    "messenger.com",
+    "sharechat.com",
+    "mojapp.in",
+    "zoom.us"
+   ],
+   "proxy": [
+    "wechat.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.in",
+    "flipkart.com",
+    "myntra.com",
+    "ajio.com",
+    "snapdeal.com",
+    "bigbasket.com",
+    "blinkit.com",
+    "zomato.com",
+    "swiggy.com",
+    "meesho.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "paytm.com",
+    "phonepe.com",
+    "sbi.co.in",
+    "hdfcbank.com",
+    "icicibank.com",
+    "axisbank.com",
+    "npci.org.in",
+    "razorpay.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "riotgames.com",
+    "epicgames.com",
+    "ea.com",
+    "krafton.com",
+    "loco.gg",
+    "rooter.gg"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

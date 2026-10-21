@@ -1,0 +1,105 @@
+{
+ "country": "PK",
+ "name": "巴基斯坦",
+ "version": 1,
+ "direct_domains": [
+  "google.com.pk",
+  "dawn.com",
+  "geo.tv",
+  "arynews.tv",
+  "tribune.com.pk",
+  "jang.com.pk",
+  "nadra.gov.pk",
+  "pakistan.gov.pk"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai"
+   ],
+   "proxy": [
+    "claude.ai"
+   ],
+   "default_exit": "US"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "aryzap.com",
+    "tapmad.com",
+    "dailymotion.com",
+    "twitch.tv",
+    "primevideo.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "telegram.org",
+    "signal.org",
+    "discord.com",
+    "imo.im",
+    "zoom.us"
+   ],
+   "proxy": [
+    "x.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "daraz.pk",
+    "priceoye.pk",
+    "telemart.pk",
+    "homeshopping.pk",
+    "foodpanda.pk",
+    "careem.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "easypaisa.com.pk",
+    "jazzcash.com.pk",
+    "meezanbank.com",
+    "ubl.com.pk",
+    "hbl.com",
+    "mcb.com.pk",
+    "alliedbank.com",
+    "nayapay.com",
+    "sadapay.pk"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "riotgames.com",
+    "epicgames.com",
+    "ea.com",
+    "garena.com",
+    "pubgmobile.com",
+    "callofduty.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

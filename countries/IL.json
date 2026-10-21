@@ -1,0 +1,97 @@
+{
+ "country": "IL",
+ "name": "以色列",
+ "version": 1,
+ "direct_domains": [
+  "ynet.co.il",
+  "walla.co.il",
+  "haaretz.co.il",
+  "globes.co.il",
+  "mako.co.il",
+  "calcalist.co.il",
+  "israelhayom.co.il",
+  "gov.il"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "mako.co.il",
+    "kan.org.il",
+    "reshet.tv",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv",
+    "spotify.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "zap.co.il",
+    "ksp.co.il",
+    "shufersal.co.il",
+    "terminalx.com",
+    "azrieli.com",
+    "wolt.com",
+    "bug.co.il",
+    "amazon.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bankleumi.co.il",
+    "bankhapoalim.co.il",
+    "discountbank.co.il",
+    "mizrahi-tefahot.co.il",
+    "payboxapp.com",
+    "cal-online.co.il",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.co.il",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

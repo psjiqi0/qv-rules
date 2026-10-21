@@ -1,0 +1,102 @@
+{
+ "country": "TR",
+ "name": "土耳其",
+ "version": 1,
+ "direct_domains": [
+  "hurriyet.com.tr",
+  "sozcu.com.tr",
+  "milliyet.com.tr",
+  "ntv.com.tr",
+  "trthaber.com",
+  "sabah.com.tr",
+  "turkiye.gov.tr",
+  "haber7.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "puhutv.com",
+    "blutv.com",
+    "gain.tv",
+    "exxen.com",
+    "tabii.com",
+    "tiktok.com",
+    "twitch.tv",
+    "disneyplus.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "bip.com"
+   ],
+   "proxy": [
+    "discord.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "trendyol.com",
+    "hepsiburada.com",
+    "n11.com",
+    "amazon.com.tr",
+    "ciceksepeti.com",
+    "teknosa.com",
+    "mediamarkt.com.tr",
+    "morhipo.com",
+    "akakce.com",
+    "pazarama.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "garantibbva.com.tr",
+    "isbank.com.tr",
+    "akbank.com",
+    "yapikredi.com.tr",
+    "ziraatbank.com.tr",
+    "papara.com",
+    "enpara.com",
+    "kuveytturk.com.tr"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com"
+   ],
+   "proxy": [
+    "roblox.com"
+   ],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "country": "GB",
+ "name": "英国",
+ "version": 1,
+ "direct_domains": [
+  "bbc.co.uk",
+  "gov.uk",
+  "nhs.uk",
+  "theguardian.com",
+  "telegraph.co.uk",
+  "independent.co.uk",
+  "standard.co.uk",
+  "ft.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "deepseek.com",
+    "mistral.ai",
+    "poe.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "bbc.co.uk",
+    "itvx.com",
+    "channel4.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv",
+    "sky.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com",
+    "skype.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.co.uk",
+    "ebay.co.uk",
+    "argos.co.uk",
+    "tesco.com",
+    "sainsburys.co.uk",
+    "asda.com",
+    "johnlewis.com",
+    "currys.co.uk",
+    "asos.com",
+    "next.co.uk",
+    "etsy.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "barclays.co.uk",
+    "hsbc.co.uk",
+    "lloydsbank.com",
+    "natwest.com",
+    "santander.co.uk",
+    "monzo.com",
+    "revolut.com",
+    "paypal.com",
+    "wise.com",
+    "starlingbank.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.co.uk",
+    "riotgames.com",
+    "roblox.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

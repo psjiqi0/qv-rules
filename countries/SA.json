@@ -1,0 +1,95 @@
+{
+ "country": "SA",
+ "name": "沙特阿拉伯",
+ "version": 1,
+ "direct_domains": [
+  "sabq.org",
+  "alarabiya.net",
+  "arabnews.com",
+  "okaz.com.sa",
+  "alriyadh.com",
+  "spa.gov.sa",
+  "saudigazette.com.sa"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "shahid.mbc.net",
+    "osn.com",
+    "starzplay.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "snapchat.com",
+    "messenger.com",
+    "imo.im"
+   ],
+   "proxy": [
+    "viber.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.sa",
+    "noon.com",
+    "extra.com",
+    "jarir.com",
+    "namshi.com",
+    "salla.sa",
+    "haraj.com.sa"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "alrajhibank.com.sa",
+    "alahli.com",
+    "riyadbank.com",
+    "alinma.com",
+    "bankalbilad.com",
+    "stcpay.com.sa",
+    "mada.com.sa",
+    "urpay.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

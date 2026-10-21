@@ -1,0 +1,91 @@
+{
+ "country": "EG",
+ "name": "埃及",
+ "version": 1,
+ "direct_domains": [
+  "youm7.com",
+  "masrawy.com",
+  "elwatannews.com",
+  "ahram.org.eg",
+  "shorouknews.com",
+  "gov.eg"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "shahid.mbc.net",
+    "watchit.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "imo.im"
+   ],
+   "proxy": [
+    "discord.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.eg",
+    "jumia.com.eg",
+    "noon.com",
+    "btech.com",
+    "elarabygroup.com",
+    "2b.com.eg",
+    "carrefouregypt.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "nbe.com.eg",
+    "banquemisr.com",
+    "cibeg.com",
+    "qnb.com.eg",
+    "fawry.com",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

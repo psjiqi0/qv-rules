@@ -1,0 +1,105 @@
+{
+ "country": "HK",
+ "name": "香港",
+ "version": 1,
+ "direct_domains": [
+  "google.com.hk",
+  "yahoo.com.hk",
+  "hkgolden.com",
+  "discuss.com.hk",
+  "uwants.com",
+  "openrice.com",
+  "hk01.com",
+  "rthk.hk"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "viu.com",
+    "mytvsuper.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "twitch.tv",
+    "bilibili.com",
+    "iq.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "signal.org",
+    "facebook.com",
+    "instagram.com",
+    "threads.net",
+    "discord.com",
+    "wechat.com",
+    "line.me",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "hktvmall.com",
+    "fortress.com.hk",
+    "taobao.com",
+    "jd.com",
+    "amazon.com",
+    "zalora.com.hk",
+    "foodpanda.hk",
+    "deliveroo.hk"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "hsbc.com.hk",
+    "hangseng.com",
+    "bochk.com",
+    "standardchartered.com.hk",
+    "citibank.com.hk",
+    "octopuscards.com",
+    "alipayhk.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com.hk",
+    "riotgames.com",
+    "hoyoverse.com",
+    "garena.com",
+    "epicgames.com",
+    "ea.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

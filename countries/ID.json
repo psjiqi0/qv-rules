@@ -1,0 +1,110 @@
+{
+ "country": "ID",
+ "name": "印度尼西亚",
+ "version": 1,
+ "direct_domains": [
+  "google.co.id",
+  "detik.com",
+  "kompas.com",
+  "tribunnews.com",
+  "liputan6.com",
+  "idntimes.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "vidio.com",
+    "viu.com",
+    "iq.com",
+    "wetv.vip",
+    "primevideo.com",
+    "twitch.tv",
+    "bilibili.com"
+   ],
+   "proxy": [
+    "vimeo.com"
+   ],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "instagram.com",
+    "facebook.com",
+    "threads.net",
+    "discord.com",
+    "line.me",
+    "messenger.com",
+    "signal.org",
+    "zoom.us"
+   ],
+   "proxy": [
+    "reddit.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "tokopedia.com",
+    "shopee.co.id",
+    "lazada.co.id",
+    "bukalapak.com",
+    "blibli.com",
+    "gojek.com",
+    "grab.com",
+    "traveloka.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bca.co.id",
+    "bankmandiri.co.id",
+    "bri.co.id",
+    "bni.co.id",
+    "ovo.id",
+    "dana.id",
+    "gopay.co.id",
+    "jenius.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "hoyoverse.com",
+    "playstation.com",
+    "xbox.com",
+    "epicgames.com",
+    "ea.com",
+    "unipin.com",
+    "mobilelegends.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

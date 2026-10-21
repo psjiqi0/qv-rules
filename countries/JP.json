@@ -1,0 +1,109 @@
+{
+ "country": "JP",
+ "name": "日本",
+ "version": 1,
+ "direct_domains": [
+  "yahoo.co.jp",
+  "google.co.jp",
+  "nhk.or.jp",
+  "nikkei.com",
+  "asahi.com",
+  "mainichi.jp",
+  "weathernews.jp"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "primevideo.com",
+    "abema.tv",
+    "tver.jp",
+    "nicovideo.jp",
+    "hulu.jp",
+    "unext.jp",
+    "disneyplus.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "line.me",
+    "discord.com",
+    "x.com",
+    "instagram.com",
+    "facebook.com",
+    "whatsapp.com",
+    "telegram.org",
+    "zoom.us",
+    "slack.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.co.jp",
+    "rakuten.co.jp",
+    "mercari.com",
+    "zozo.jp",
+    "yodobashi.com",
+    "biccamera.com",
+    "uniqlo.com",
+    "muji.com",
+    "ubereats.com",
+    "demaecan.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "mufg.jp",
+    "smbc.co.jp",
+    "mizuhobank.co.jp",
+    "paypay.ne.jp",
+    "rakuten-bank.co.jp",
+    "jcb.co.jp",
+    "smbc-card.com",
+    "aeonbank.co.jp"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "nintendo.co.jp",
+    "playstation.com",
+    "xbox.com",
+    "steampowered.com",
+    "bandainamco.co.jp",
+    "square-enix.co.jp",
+    "capcom.co.jp",
+    "sega.co.jp",
+    "konami.com",
+    "pokemon.co.jp",
+    "dmm.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

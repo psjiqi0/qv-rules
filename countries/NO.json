@@ -1,0 +1,95 @@
+{
+ "country": "NO",
+ "name": "挪威",
+ "version": 1,
+ "direct_domains": [
+  "nrk.no",
+  "vg.no",
+  "aftenposten.no",
+  "dagbladet.no",
+  "tv2.no",
+  "e24.no",
+  "regjeringen.no"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "nrk.no",
+    "tv2.no",
+    "viaplay.no",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "finn.no",
+    "komplett.no",
+    "elkjop.no",
+    "power.no",
+    "coop.no",
+    "meny.no",
+    "clasohlson.com",
+    "zalando.no",
+    "tise.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "dnb.no",
+    "sparebank1.no",
+    "nordea.no",
+    "vipps.no",
+    "paypal.com",
+    "sbanken.no"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.no",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

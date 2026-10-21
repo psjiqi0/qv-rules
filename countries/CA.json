@@ -1,0 +1,122 @@
+{
+ "country": "CA",
+ "name": "加拿大",
+ "version": 1,
+ "direct_domains": [
+  "google.ca",
+  "cbc.ca",
+  "canada.ca",
+  "theglobeandmail.com",
+  "thestar.com",
+  "ctvnews.ca",
+  "globalnews.ca",
+  "cp24.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "anthropic.com",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai",
+    "huggingface.co"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "crave.ca",
+    "gem.cbc.ca",
+    "tou.tv",
+    "disneyplus.com",
+    "primevideo.com",
+    "twitch.tv",
+    "crunchyroll.com",
+    "tubitv.com",
+    "ctv.ca",
+    "pluto.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "signal.org",
+    "snapchat.com",
+    "x.com",
+    "wechat.com",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.ca",
+    "walmart.ca",
+    "bestbuy.ca",
+    "costco.ca",
+    "canadiantire.ca",
+    "shoppersdrugmart.ca",
+    "loblaws.ca",
+    "instacart.ca",
+    "ebay.ca",
+    "etsy.com",
+    "homedepot.ca",
+    "wayfair.ca"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "rbc.com",
+    "td.com",
+    "scotiabank.com",
+    "bmo.com",
+    "cibc.com",
+    "desjardins.com",
+    "tangerine.ca",
+    "interac.ca",
+    "paypal.ca",
+    "wealthsimple.com",
+    "questrade.com",
+    "nationalbank.ca"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "ubisoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

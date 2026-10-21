@@ -1,0 +1,104 @@
+{
+ "country": "PH",
+ "name": "菲律宾",
+ "version": 1,
+ "direct_domains": [
+  "google.com.ph",
+  "inquirer.net",
+  "philstar.com",
+  "rappler.com",
+  "abs-cbn.com",
+  "gmanetwork.com",
+  "mb.com.ph"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "viu.com",
+    "iwanttfc.com",
+    "twitch.tv",
+    "bilibili.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "whatsapp.com",
+    "telegram.org",
+    "viber.com",
+    "discord.com",
+    "signal.org",
+    "threads.net",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.ph",
+    "lazada.com.ph",
+    "zalora.com.ph",
+    "carousell.ph",
+    "grab.com",
+    "foodpanda.ph"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bpi.com.ph",
+    "bdo.com.ph",
+    "metrobank.com.ph",
+    "landbank.com",
+    "unionbankph.com",
+    "gcash.com",
+    "maya.ph",
+    "securitybank.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "garena.com",
+    "riotgames.com",
+    "playstation.com",
+    "xbox.com",
+    "hoyoverse.com",
+    "epicgames.com",
+    "ea.com",
+    "codashop.com",
+    "unipin.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

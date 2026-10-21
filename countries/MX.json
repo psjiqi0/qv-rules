@@ -1,0 +1,117 @@
+{
+ "country": "MX",
+ "name": "墨西哥",
+ "version": 1,
+ "direct_domains": [
+  "google.com.mx",
+  "gob.mx",
+  "eluniversal.com.mx",
+  "milenio.com",
+  "jornada.com.mx",
+  "excelsior.com.mx",
+  "unam.mx"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai",
+    "deepseek.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "max.com",
+    "vix.com",
+    "primevideo.com",
+    "clarovideo.com",
+    "twitch.tv",
+    "crunchyroll.com",
+    "pluto.tv",
+    "tudn.com",
+    "azteca.com.mx"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "snapchat.com",
+    "x.com",
+    "tiktok.com",
+    "signal.org"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolibre.com.mx",
+    "amazon.com.mx",
+    "walmart.com.mx",
+    "liverpool.com.mx",
+    "coppel.com",
+    "elektra.com.mx",
+    "sears.com.mx",
+    "claroshop.com",
+    "rappi.com.mx",
+    "shein.com.mx",
+    "sanborns.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bbva.mx",
+    "banamex.com",
+    "banorte.com",
+    "santander.com.mx",
+    "hsbc.com.mx",
+    "banbajio.com",
+    "mercadopago.com.mx",
+    "nu.com.mx",
+    "oxxo.com",
+    "klar.mx",
+    "scotiabank.com.mx"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

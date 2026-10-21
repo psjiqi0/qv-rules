@@ -1,0 +1,122 @@
+{
+ "country": "BR",
+ "name": "巴西",
+ "version": 1,
+ "direct_domains": [
+  "google.com.br",
+  "globo.com",
+  "uol.com.br",
+  "gov.br",
+  "terra.com.br",
+  "folha.uol.com.br",
+  "estadao.com.br",
+  "r7.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai",
+    "deepseek.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "globoplay.globo.com",
+    "disneyplus.com",
+    "max.com",
+    "primevideo.com",
+    "twitch.tv",
+    "crunchyroll.com",
+    "paramountplus.com",
+    "pluto.tv",
+    "playplus.com.br",
+    "sbt.com.br"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "signal.org",
+    "x.com",
+    "kwai.com",
+    "tiktok.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolivre.com.br",
+    "amazon.com.br",
+    "magazineluiza.com.br",
+    "casasbahia.com.br",
+    "shopee.com.br",
+    "aliexpress.com",
+    "americanas.com.br",
+    "pontofrio.com.br",
+    "netshoes.com.br",
+    "dafiti.com.br",
+    "ifood.com.br",
+    "rappi.com.br"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "itau.com.br",
+    "bradesco.com.br",
+    "bb.com.br",
+    "caixa.gov.br",
+    "santander.com.br",
+    "nubank.com.br",
+    "picpay.com",
+    "mercadopago.com.br",
+    "pagbank.com",
+    "bancointer.com.br",
+    "c6bank.com.br",
+    "xp.com.br",
+    "btgpactual.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com",
+    "nuuvem.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

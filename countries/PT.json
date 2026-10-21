@@ -1,0 +1,94 @@
+{
+ "country": "PT",
+ "name": "葡萄牙",
+ "version": 1,
+ "direct_domains": [
+  "publico.pt",
+  "rtp.pt",
+  "sicnoticias.pt",
+  "observador.pt",
+  "cmjornal.pt",
+  "jn.pt",
+  "gov.pt"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "rtp.pt",
+    "sic.pt",
+    "sporttv.pt",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "worten.pt",
+    "fnac.pt",
+    "pccomponentes.pt",
+    "continente.pt",
+    "olx.pt",
+    "custojusto.pt",
+    "pingodoce.pt",
+    "amazon.es"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "cgd.pt",
+    "millenniumbcp.pt",
+    "novobanco.pt",
+    "santander.pt",
+    "activobank.pt",
+    "mbway.pt",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.pt",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

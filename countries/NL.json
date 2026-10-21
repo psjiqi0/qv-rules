@@ -1,0 +1,100 @@
+{
+ "country": "NL",
+ "name": "荷兰",
+ "version": 1,
+ "direct_domains": [
+  "nos.nl",
+  "nu.nl",
+  "telegraaf.nl",
+  "ad.nl",
+  "volkskrant.nl",
+  "rtl.nl",
+  "rijksoverheid.nl",
+  "funda.nl"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "npostart.nl",
+    "videoland.com",
+    "rtl.nl",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv",
+    "viaplay.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "signal.org",
+    "messenger.com",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "bol.com",
+    "coolblue.nl",
+    "wehkamp.nl",
+    "marktplaats.nl",
+    "ah.nl",
+    "jumbo.com",
+    "zalando.nl",
+    "amazon.nl",
+    "mediamarkt.nl"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "ing.nl",
+    "rabobank.nl",
+    "abnamro.nl",
+    "snsbank.nl",
+    "bunq.com",
+    "ideal.nl",
+    "tikkie.me",
+    "paypal.com",
+    "revolut.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.nl",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

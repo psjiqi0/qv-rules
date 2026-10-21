@@ -1,0 +1,111 @@
+{
+ "country": "AR",
+ "name": "阿根廷",
+ "version": 1,
+ "direct_domains": [
+  "google.com.ar",
+  "clarin.com",
+  "lanacion.com.ar",
+  "infobae.com",
+  "argentina.gob.ar",
+  "ambito.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "character.ai"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "max.com",
+    "flow.com.ar",
+    "primevideo.com",
+    "twitch.tv",
+    "crunchyroll.com",
+    "paramountplus.com",
+    "telefe.com",
+    "pluto.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "x.com",
+    "tiktok.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolibre.com.ar",
+    "fravega.com",
+    "garbarino.com",
+    "carrefour.com.ar",
+    "compumundo.com",
+    "musimundo.com",
+    "rappi.com.ar",
+    "pedidosya.com.ar",
+    "amazon.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bancogalicia.com.ar",
+    "bbva.com.ar",
+    "santander.com.ar",
+    "macro.com.ar",
+    "bna.com.ar",
+    "mercadopago.com.ar",
+    "uala.com.ar",
+    "brubank.com",
+    "lemon.me",
+    "ripio.com",
+    "buenbit.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

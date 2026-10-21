@@ -1,0 +1,114 @@
+{
+ "country": "CL",
+ "name": "智利",
+ "version": 1,
+ "direct_domains": [
+  "google.cl",
+  "emol.com",
+  "latercera.com",
+  "gob.cl",
+  "biobiochile.cl",
+  "cooperativa.cl",
+  "adnradio.cl"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "openai.com",
+    "claude.ai",
+    "gemini.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "character.ai",
+    "poe.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "max.com",
+    "primevideo.com",
+    "mega.cl",
+    "tvn.cl",
+    "13.cl",
+    "chilevision.cl",
+    "twitch.tv",
+    "crunchyroll.com",
+    "zapping.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "messenger.com",
+    "facebook.com",
+    "instagram.com",
+    "telegram.org",
+    "discord.com",
+    "x.com",
+    "tiktok.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "mercadolibre.cl",
+    "falabella.com",
+    "paris.cl",
+    "ripley.cl",
+    "sodimac.cl",
+    "lider.cl",
+    "jumbo.cl",
+    "rappi.cl",
+    "amazon.com",
+    "hites.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bancoestado.cl",
+    "bci.cl",
+    "santander.cl",
+    "bancochile.cl",
+    "scotiabank.cl",
+    "itau.cl",
+    "tenpo.cl",
+    "somosmach.com",
+    "mercadopago.cl",
+    "fintual.cl",
+    "coopeuch.cl"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "steamcommunity.com",
+    "epicgames.com",
+    "riotgames.com",
+    "roblox.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.com",
+    "ea.com",
+    "battle.net",
+    "garena.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "country": "FR",
+ "name": "法国",
+ "version": 1,
+ "direct_domains": [
+  "lemonde.fr",
+  "lefigaro.fr",
+  "francetvinfo.fr",
+  "bfmtv.com",
+  "ouest-france.fr",
+  "20minutes.fr",
+  "service-public.fr",
+  "tf1info.fr"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "mistral.ai",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "huggingface.co"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "france.tv",
+    "tf1.fr",
+    "m6.fr",
+    "canalplus.com",
+    "arte.tv",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com",
+    "skype.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.fr",
+    "cdiscount.com",
+    "fnac.com",
+    "darty.com",
+    "leboncoin.fr",
+    "boulanger.com",
+    "carrefour.fr",
+    "veepee.fr",
+    "laredoute.fr",
+    "manomano.fr"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "bnpparibas.fr",
+    "societegenerale.fr",
+    "credit-agricole.fr",
+    "boursobank.com",
+    "labanquepostale.fr",
+    "paypal.com",
+    "revolut.com",
+    "qonto.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ubisoft.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.fr",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "country": "DK",
+ "name": "丹麦",
+ "version": 1,
+ "direct_domains": [
+  "dr.dk",
+  "tv2.dk",
+  "berlingske.dk",
+  "politiken.dk",
+  "ekstrabladet.dk",
+  "bt.dk",
+  "borger.dk"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "dr.dk",
+    "tv2.dk",
+    "viaplay.dk",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "elgiganten.dk",
+    "power.dk",
+    "proshop.dk",
+    "komplett.dk",
+    "dba.dk",
+    "coop.dk",
+    "bilka.dk",
+    "zalando.dk",
+    "saxo.com",
+    "amazon.de"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "danskebank.dk",
+    "nordea.dk",
+    "jyskebank.dk",
+    "sydbank.dk",
+    "mobilepay.dk",
+    "lunar.app",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.dk",
+    "riotgames.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

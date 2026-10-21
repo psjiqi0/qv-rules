@@ -1,11 +1,241 @@
 {
-  "version": 202610210805,
-  "updated": "2026-10-21T08:05:17Z",
+  "version": 202610210806,
+  "updated": "2026-10-21T08:06:56Z",
   "countries": {
+    "AE": {
+      "file": "countries/AE.json",
+      "sha256": "3ffd95aea2bb094942574d9ff0e109ff12be64a23f8146675590cc54a4454a37",
+      "domains": 51
+    },
+    "AR": {
+      "file": "countries/AR.json",
+      "sha256": "5e10a5de11e0fbbcc6b34f820a46b4325bb5445878255b4d33e868d1e0c65289",
+      "domains": 65
+    },
+    "AU": {
+      "file": "countries/AU.json",
+      "sha256": "edbe672e5f88b792f6677a260910a301cd88de4e1fc2ba85aa3326868fa78caf",
+      "domains": 63
+    },
+    "BD": {
+      "file": "countries/BD.json",
+      "sha256": "fa94c875b3e3852bd77c15d413ed17fd188b785d4f79d4908b8f78b99bf1629a",
+      "domains": 55
+    },
+    "BR": {
+      "file": "countries/BR.json",
+      "sha256": "3edca987e79808762f8968e86ca3e6fb5909b95bbe23143e512611e72f9b6c41",
+      "domains": 76
+    },
+    "CA": {
+      "file": "countries/CA.json",
+      "sha256": "da1d945fcaf70e7244ebe8cb054e8e46760d339c6795b4e297c602621062c60f",
+      "domains": 76
+    },
+    "CL": {
+      "file": "countries/CL.json",
+      "sha256": "13aaba4a0d9250825b5bca9d433e4a1c21b44c25f328f57a8eb40f905e5c0b8c",
+      "domains": 68
+    },
     "CN": {
       "file": "countries/CN.json",
       "sha256": "8177aa80b8ceed5ae218acc7acb81691b2a080a6b391a09a7e1cf11fb687a258",
       "domains": 173
+    },
+    "CO": {
+      "file": "countries/CO.json",
+      "sha256": "c0d232dd88ac8f94d18f7920f2e825daa78efec978d71d9875a1970fcf587c99",
+      "domains": 66
+    },
+    "CZ": {
+      "file": "countries/CZ.json",
+      "sha256": "6a4c34294259d22079ecbbdac56e8bfb894924207ac4226c4760472f04e3bc3b",
+      "domains": 50
+    },
+    "DE": {
+      "file": "countries/DE.json",
+      "sha256": "bc3d663bba9a2d01de1e9b7a41c018fd1bd76dfcd0f845685453ddecdb13cf39",
+      "domains": 64
+    },
+    "DK": {
+      "file": "countries/DK.json",
+      "sha256": "a9909e0bb83c80eaf332b6465c42165594cd8add7ab697df98e40a552be1feba",
+      "domains": 51
+    },
+    "EG": {
+      "file": "countries/EG.json",
+      "sha256": "dbc566aef3ff896ee830615c5f1a3281204fbe05d6e58f3d33b27d42cffe8e6a",
+      "domains": 44
+    },
+    "ES": {
+      "file": "countries/ES.json",
+      "sha256": "27af33fc6135b2dd867b5e9ea7783f4088f09eb138dd2e469c46b308fa42d4b7",
+      "domains": 56
+    },
+    "FI": {
+      "file": "countries/FI.json",
+      "sha256": "a06ca852144aad4523830dfb719772f41c168eaa9f5338794f4b19e03399564b",
+      "domains": 52
+    },
+    "FR": {
+      "file": "countries/FR.json",
+      "sha256": "2f92706e795770a0ef85d64cbbd95df7f7f443d519dd0d0f97605c303c5ee0aa",
+      "domains": 59
+    },
+    "GB": {
+      "file": "countries/GB.json",
+      "sha256": "9ba44609e74feb97fd5543cf94f8e5cd2f7b9f86fcd6d848b1b1c38944d44dcf",
+      "domains": 62
+    },
+    "HK": {
+      "file": "countries/HK.json",
+      "sha256": "1cb757329db930dadbadf59e4816893d16396f7c0db9b9c27354558bd598bd29",
+      "domains": 59
+    },
+    "ID": {
+      "file": "countries/ID.json",
+      "sha256": "6055065abd048ca62bcadf8b7dea8068bfc002f96f25c076363f1effc82871f6",
+      "domains": 62
+    },
+    "IL": {
+      "file": "countries/IL.json",
+      "sha256": "59a9368d8fba5cb1d5f8eab26d0b755e525b4a2708754cd7a5880b5b51c34c69",
+      "domains": 51
+    },
+    "IN": {
+      "file": "countries/IN.json",
+      "sha256": "c8e15ac6c7b34407bbb277789bd9133371af9a1c0557fe7b1c0f0c2d40ed34cb",
+      "domains": 65
+    },
+    "IT": {
+      "file": "countries/IT.json",
+      "sha256": "267aa54de3c56f1b6700442f4d477e2b57f3205caf88b157ffb6134412e64ad5",
+      "domains": 54
+    },
+    "JP": {
+      "file": "countries/JP.json",
+      "sha256": "515531479a009b98854be803c9f83658eece994cf7978c86b03c6263dd9bc0e2",
+      "domains": 63
+    },
+    "KH": {
+      "file": "countries/KH.json",
+      "sha256": "1d6a6a399e9814215365635d53b4d21a1cba650849a2d7bf0f801fc5b8fc6ea2",
+      "domains": 48
+    },
+    "KR": {
+      "file": "countries/KR.json",
+      "sha256": "2c6e05a935104ee5e6e747fe9b3727e66b616a0365215e8ce0d8e5ef040791b2",
+      "domains": 60
+    },
+    "LK": {
+      "file": "countries/LK.json",
+      "sha256": "030c499c046b12109d0b46c03c6a9586269869cc110ed490b2d22a6f8d003208",
+      "domains": 53
+    },
+    "MM": {
+      "file": "countries/MM.json",
+      "sha256": "250d6fce8cf0c08fde8cac2362e85de1c1f05f0fd6ffb0f4294e294edc0971cc",
+      "domains": 48
+    },
+    "MX": {
+      "file": "countries/MX.json",
+      "sha256": "8413115882d3cd298d01d5ce60184be881c0d34cf447694add6f362906eac8e6",
+      "domains": 71
+    },
+    "MY": {
+      "file": "countries/MY.json",
+      "sha256": "f505981c0b523883cf8f2e8449423affb7f937e7cfc9abf90bde8fbd0482fea6",
+      "domains": 60
+    },
+    "NL": {
+      "file": "countries/NL.json",
+      "sha256": "6ef67fccd417a0c01ab130cda24c326a5836d189edf81ed7e42932da6b32c4ab",
+      "domains": 54
+    },
+    "NO": {
+      "file": "countries/NO.json",
+      "sha256": "8c4f94eeac9ac850a44ec5698922df065e642c9e7f66149515b3c56b3ade799d",
+      "domains": 49
+    },
+    "NZ": {
+      "file": "countries/NZ.json",
+      "sha256": "1759cd1658c8ddea6e7306ee5852b3313285ff55e61a4366d61ce4e8567d5ec5",
+      "domains": 60
+    },
+    "PE": {
+      "file": "countries/PE.json",
+      "sha256": "31d0c35602f0bfa39c36319803f5814d4aaef672b35ec03cab436b58e0241ba0",
+      "domains": 63
+    },
+    "PH": {
+      "file": "countries/PH.json",
+      "sha256": "952d3cb68f6df4e2f055977cc6c3892dc8f3aa22cf799112ff7f43b8c59b6288",
+      "domains": 58
+    },
+    "PK": {
+      "file": "countries/PK.json",
+      "sha256": "d3a9e72a55f5c156843d2de2b3e8521da979e34e18a54e98870602df623a946b",
+      "domains": 57
+    },
+    "PL": {
+      "file": "countries/PL.json",
+      "sha256": "36898bf2e7621e6d17ded0bd063ebe0ca0410ec3d6c4c88c61b312d8405a71b6",
+      "domains": 55
+    },
+    "PT": {
+      "file": "countries/PT.json",
+      "sha256": "a10b2f027debceebbdd8d1d885ff99e117d0528ff1c6d57d857fceb717c73b82",
+      "domains": 48
+    },
+    "RU": {
+      "file": "countries/RU.json",
+      "sha256": "d01022de71441e0b55ae11709757c5083240ce6c1254bf6d5cafa2d254b61a71",
+      "domains": 63
+    },
+    "SA": {
+      "file": "countries/SA.json",
+      "sha256": "ec9de3a9a15615bd31534443c1d6baa3d5040882c8de0b2623650385eb0a3c5f",
+      "domains": 48
+    },
+    "SE": {
+      "file": "countries/SE.json",
+      "sha256": "7767b3ba604e787f577de756ec58b6d03400e03389d1a3e0e8f572d961304b25",
+      "domains": 54
+    },
+    "SG": {
+      "file": "countries/SG.json",
+      "sha256": "059d760c0e942587e3b2fa5a69f1636abf1410c36bb095d0d945c613830bc8eb",
+      "domains": 62
+    },
+    "TH": {
+      "file": "countries/TH.json",
+      "sha256": "daee8b87a03e723cc08a26b351aa3b53f30a6e556628fe5697ea6cdd2e212112",
+      "domains": 58
+    },
+    "TR": {
+      "file": "countries/TR.json",
+      "sha256": "a3620b0f6ec4e94975663fa192a5c44568fea88ba13a8ba94d80b9257950e881",
+      "domains": 54
+    },
+    "TW": {
+      "file": "countries/TW.json",
+      "sha256": "c3203dd5126c47eea3cfb467f8c4e270eadee97b432f89a11426c96393586c52",
+      "domains": 60
+    },
+    "UA": {
+      "file": "countries/UA.json",
+      "sha256": "fe723e365352bc9d34154cdc8b41c42d07bd8e8fb178b693963ccb9e58dd5a48",
+      "domains": 51
+    },
+    "US": {
+      "file": "countries/US.json",
+      "sha256": "fe5df6e3987d99913cccd39b8879621cc34c4965c343d93f1d92b1f0c7f4701f",
+      "domains": 121
+    },
+    "VN": {
+      "file": "countries/VN.json",
+      "sha256": "1fb010adb865d8186a040576558960e3525ddc7b9eb40b97eed569118b2e46c9",
+      "domains": 60
     }
   }
 }

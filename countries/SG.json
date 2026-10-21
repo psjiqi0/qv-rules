@@ -1,0 +1,108 @@
+{
+ "country": "SG",
+ "name": "新加坡",
+ "version": 1,
+ "direct_domains": [
+  "google.com.sg",
+  "straitstimes.com",
+  "channelnewsasia.com",
+  "todayonline.com",
+  "gov.sg",
+  "singtel.com",
+  "starhub.com"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "disneyplus.com",
+    "primevideo.com",
+    "viu.com",
+    "mewatch.sg",
+    "twitch.tv",
+    "bilibili.com",
+    "iq.com",
+    "max.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "facebook.com",
+    "instagram.com",
+    "threads.net",
+    "discord.com",
+    "signal.org",
+    "wechat.com",
+    "line.me",
+    "zoom.us"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "shopee.sg",
+    "lazada.sg",
+    "amazon.sg",
+    "qoo10.sg",
+    "carousell.sg",
+    "fairprice.com.sg",
+    "grab.com",
+    "foodpanda.sg",
+    "deliveroo.com.sg"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "dbs.com",
+    "uob.com.sg",
+    "ocbc.com",
+    "posb.com.sg",
+    "standardchartered.com.sg",
+    "citibank.com.sg",
+    "trustbank.sg",
+    "revolut.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com",
+    "riotgames.com",
+    "garena.com",
+    "hoyoverse.com",
+    "epicgames.com",
+    "ea.com",
+    "battle.net"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "country": "SE",
+ "name": "瑞典",
+ "version": 1,
+ "direct_domains": [
+  "svt.se",
+  "aftonbladet.se",
+  "expressen.se",
+  "dn.se",
+  "svd.se",
+  "regeringen.se",
+  "1177.se"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "svtplay.se",
+    "tv4.se",
+    "viaplay.se",
+    "disneyplus.com",
+    "primevideo.com",
+    "tiktok.com",
+    "twitch.tv",
+    "spotify.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "telegram.org",
+    "messenger.com",
+    "signal.org",
+    "discord.com",
+    "snapchat.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "blocket.se",
+    "tradera.com",
+    "elgiganten.se",
+    "netonnet.se",
+    "inet.se",
+    "ica.se",
+    "hm.com",
+    "ikea.com",
+    "amazon.se",
+    "cdon.se"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "swedbank.se",
+    "seb.se",
+    "handelsbanken.se",
+    "nordea.se",
+    "swish.nu",
+    "klarna.com",
+    "paypal.com",
+    "lansforsakringar.se"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "store.steampowered.com",
+    "epicgames.com",
+    "ea.com",
+    "xbox.com",
+    "playstation.com",
+    "nintendo.se",
+    "riotgames.com",
+    "minecraft.net"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

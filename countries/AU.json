@@ -1,0 +1,109 @@
+{
+ "country": "AU",
+ "name": "澳大利亚",
+ "version": 1,
+ "direct_domains": [
+  "google.com.au",
+  "abc.net.au",
+  "smh.com.au",
+  "news.com.au",
+  "theage.com.au",
+  "bom.gov.au",
+  "australia.gov.au",
+  "seek.com.au"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "poe.com",
+    "character.ai",
+    "you.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "video": {
+   "direct": [
+    "youtube.com",
+    "netflix.com",
+    "stan.com.au",
+    "binge.com.au",
+    "disneyplus.com",
+    "primevideo.com",
+    "9now.com.au",
+    "7plus.com.au",
+    "kayosports.com.au",
+    "twitch.tv"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "whatsapp.com",
+    "facebook.com",
+    "messenger.com",
+    "instagram.com",
+    "telegram.org",
+    "signal.org",
+    "discord.com",
+    "threads.net",
+    "zoom.us",
+    "teams.microsoft.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "amazon.com.au",
+    "ebay.com.au",
+    "woolworths.com.au",
+    "coles.com.au",
+    "kmart.com.au",
+    "target.com.au",
+    "myer.com",
+    "theiconic.com.au",
+    "menulog.com.au",
+    "ubereats.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "commbank.com.au",
+    "nab.com.au",
+    "westpac.com.au",
+    "anz.com.au",
+    "ing.com.au",
+    "macquarie.com.au",
+    "afterpay.com",
+    "paypal.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "steampowered.com",
+    "playstation.com",
+    "xbox.com",
+    "nintendo.com.au",
+    "riotgames.com",
+    "epicgames.com",
+    "ea.com",
+    "battle.net",
+    "ebgames.com.au"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}

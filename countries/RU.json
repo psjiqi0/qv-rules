@@ -1,0 +1,112 @@
+{
+ "country": "RU",
+ "name": "俄罗斯",
+ "version": 1,
+ "direct_domains": [
+  "yandex.ru",
+  "mail.ru",
+  "vk.com",
+  "dzen.ru",
+  "ria.ru",
+  "rbc.ru",
+  "lenta.ru",
+  "gosuslugi.ru",
+  "tass.ru",
+  "kommersant.ru"
+ ],
+ "direct_cidrs": [],
+ "groups": {
+  "ai": {
+   "direct": [
+    "yandex.ru",
+    "deepseek.com"
+   ],
+   "proxy": [
+    "chatgpt.com",
+    "claude.ai",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com"
+   ],
+   "default_exit": "US"
+  },
+  "video": {
+   "direct": [
+    "vk.com",
+    "rutube.ru",
+    "dzen.ru",
+    "ok.ru",
+    "kinopoisk.ru",
+    "ivi.ru",
+    "okko.tv",
+    "start.ru",
+    "premier.one",
+    "wink.ru"
+   ],
+   "proxy": [
+    "youtube.com",
+    "netflix.com",
+    "tiktok.com",
+    "disneyplus.com"
+   ],
+   "default_exit": "auto"
+  },
+  "chat": {
+   "direct": [
+    "telegram.org",
+    "vk.com",
+    "ok.ru",
+    "max.ru"
+   ],
+   "proxy": [
+    "whatsapp.com",
+    "instagram.com",
+    "facebook.com",
+    "signal.org",
+    "discord.com"
+   ],
+   "default_exit": "auto"
+  },
+  "shopping": {
+   "direct": [
+    "ozon.ru",
+    "wildberries.ru",
+    "market.yandex.ru",
+    "avito.ru",
+    "lamoda.ru",
+    "dns-shop.ru",
+    "citilink.ru",
+    "mvideo.ru",
+    "eldorado.ru",
+    "aliexpress.ru"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "finance": {
+   "direct": [
+    "sberbank.ru",
+    "tbank.ru",
+    "vtb.ru",
+    "alfabank.ru",
+    "gazprombank.ru",
+    "sovcombank.ru",
+    "rosbank.ru",
+    "mironline.ru",
+    "nspk.ru"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  },
+  "games": {
+   "direct": [
+    "vkplay.ru",
+    "lesta.ru",
+    "store.steampowered.com",
+    "gog.com"
+   ],
+   "proxy": [],
+   "default_exit": "auto"
+  }
+ }
+}
